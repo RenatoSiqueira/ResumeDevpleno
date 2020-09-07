@@ -1,0 +1,18 @@
+{
+  "name": "ResumeDevpleno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RenatoSiqueira/ResumeDevpleno.git",
+  "author": "Renato Siqueira <renatoelysiqueira@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
